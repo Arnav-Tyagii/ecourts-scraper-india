@@ -1,0 +1,7 @@
+selenium
+pandas
+pytesseract
+Pillow
+webdriver-manager
+numpy
+opencv-python

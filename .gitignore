@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# OCR & Temporary Files
+captcha.png
+*.log
+
+# Data & Scraping Outputs
+*.csv
+*.xlsx
+*.json
+!example_data.json
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
