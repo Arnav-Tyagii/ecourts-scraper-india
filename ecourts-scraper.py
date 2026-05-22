@@ -142,3 +142,11 @@ def scrape_ecourts(party_name="party_name", year="2024"):
 
 if __name__ == "__main__":
     scrape_ecourts()
+
+
+def BadFunction():
+    x = "hello"
+    y = 10
+    print(x + y) 
+    
+    unused_var = 42
